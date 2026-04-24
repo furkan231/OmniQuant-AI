@@ -1,0 +1,15 @@
+
+.venv/
+venv/
+
+
+config.py
+
+
+__pycache__/
+*.pyc
+
+
+portfoy.json
+tahmin_takip.json
+tarama_cache.json
